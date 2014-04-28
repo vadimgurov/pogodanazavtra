@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e991fa26-52d8-4ef1-93f3-185cf21aad55" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="pogodanazavtra.iws" />
@@ -70,7 +69,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="88" selection-start="1155" selection-end="1155" vertical-scroll-proportion="0.45382166" vertical-offset="45" max-vertical-offset="720">
+            <state line="29" column="44" selection-start="1483" selection-end="1483" vertical-scroll-proportion="0.6210191" vertical-offset="45" max-vertical-offset="720">
               <folding />
             </state>
           </provider>
@@ -312,17 +311,21 @@
       <created>1398435214926</created>
       <updated>1398435214926</updated>
       <workItem from="1398435221380" duration="4223000" />
-      <workItem from="1398680590395" duration="3935000" />
+      <workItem from="1398680590395" duration="3952000" />
     </task>
     <task id="LOCAL-00001" summary="move files">
       <created>1398680623144</created>
       <updated>1398680623144</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="deploy">
+      <created>1398690205066</created>
+      <updated>1398690205066</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8158000" />
+    <option name="totallyTimeSpent" value="8175000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1279" y="-4" width="1922" height="1205" extended-state="6" />
@@ -376,7 +379,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="move files" />
-    <option name="LAST_COMMIT_MESSAGE" value="move files" />
+    <MESSAGE value="deploy" />
+    <option name="LAST_COMMIT_MESSAGE" value="deploy" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -385,7 +389,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="88" selection-start="1155" selection-end="1155" vertical-scroll-proportion="0.45382166" vertical-offset="45" max-vertical-offset="720">
+        <state line="29" column="44" selection-start="1483" selection-end="1483" vertical-scroll-proportion="0.6210191" vertical-offset="45" max-vertical-offset="720">
           <folding />
         </state>
       </provider>
