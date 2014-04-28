@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e991fa26-52d8-4ef1-93f3-185cf21aad55" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JeGwlqFdTwHd8XUz2nCM3Pg_gBz1O607INe2uKP7mg--.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="pogodanazavtra.iws" />
@@ -66,10 +67,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="44" selection-start="1483" selection-end="1483" vertical-scroll-proportion="0.6210191" vertical-offset="45" max-vertical-offset="720">
+            <state line="20" column="13" selection-start="1118" selection-end="1118" vertical-scroll-proportion="-11.166667" vertical-offset="32" max-vertical-offset="720">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JeGwlqFdTwHd8XUz2nCM3Pg_gBz1O607INe2uKP7mg--.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JeGwlqFdTwHd8XUz2nCM3Pg_gBz1O607INe2uKP7mg--.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="29" selection-start="4" selection-end="4" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="688">
               <folding />
             </state>
           </provider>
@@ -97,6 +107,7 @@
         <option value="$PROJECT_DIR$/site/index.html" />
         <option value="$PROJECT_DIR$/site/css/main.css" />
         <option value="$PROJECT_DIR$/CNAME" />
+        <option value="$PROJECT_DIR$/JeGwlqFdTwHd8XUz2nCM3Pg_gBz1O607INe2uKP7mg--.html" />
       </list>
     </option>
   </component>
@@ -311,7 +322,7 @@
       <created>1398435214926</created>
       <updated>1398435214926</updated>
       <workItem from="1398435221380" duration="4223000" />
-      <workItem from="1398680590395" duration="3952000" />
+      <workItem from="1398680590395" duration="5487000" />
     </task>
     <task id="LOCAL-00001" summary="move files">
       <created>1398680623144</created>
@@ -321,17 +332,21 @@
       <created>1398690205066</created>
       <updated>1398690205066</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="deploy&#10;">
+      <created>1398690217064</created>
+      <updated>1398690217064</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8175000" />
+    <option name="totallyTimeSpent" value="9710000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1279" y="-4" width="1922" height="1205" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3724584" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31700554" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3715342" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -380,7 +395,8 @@
     </option>
     <MESSAGE value="move files" />
     <MESSAGE value="deploy" />
-    <option name="LAST_COMMIT_MESSAGE" value="deploy" />
+    <MESSAGE value="deploy&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="deploy&#10;" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -389,7 +405,14 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="44" selection-start="1483" selection-end="1483" vertical-scroll-proportion="0.6210191" vertical-offset="45" max-vertical-offset="720">
+        <state line="20" column="13" selection-start="1118" selection-end="1118" vertical-scroll-proportion="-11.166667" vertical-offset="32" max-vertical-offset="720">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JeGwlqFdTwHd8XUz2nCM3Pg_gBz1O607INe2uKP7mg--.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="29" selection-start="4" selection-end="4" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="688">
           <folding />
         </state>
       </provider>
