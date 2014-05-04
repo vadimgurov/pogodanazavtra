@@ -71,7 +71,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="21" selection-start="1099" selection-end="1099" vertical-scroll-proportion="-11.875" vertical-offset="0" max-vertical-offset="840">
+            <state line="30" column="49" selection-start="1711" selection-end="1711" vertical-scroll-proportion="-7.5" vertical-offset="270" max-vertical-offset="855">
               <folding />
             </state>
           </provider>
@@ -80,7 +80,7 @@
       <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="42" selection-start="393" selection-end="393" vertical-scroll-proportion="0.39473686" vertical-offset="0" max-vertical-offset="780">
+            <state line="10" column="22" selection-start="414" selection-end="414" vertical-scroll-proportion="0.295858" vertical-offset="0" max-vertical-offset="507">
               <folding />
             </state>
           </provider>
@@ -345,7 +345,7 @@
       <updated>1398435214926</updated>
       <workItem from="1398435221380" duration="4223000" />
       <workItem from="1398680590395" duration="5487000" />
-      <workItem from="1399228065751" duration="2845000" />
+      <workItem from="1399228065751" duration="3881000" />
     </task>
     <task id="LOCAL-00001" summary="move files">
       <created>1398680623144</created>
@@ -363,11 +363,15 @@
       <created>1399229741666</created>
       <updated>1399229741666</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="hm">
+      <created>1399233129408</created>
+      <updated>1399233129409</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12555000" />
+    <option name="totallyTimeSpent" value="13591000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="22" width="1436" height="878" extended-state="6" />
@@ -461,14 +465,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="21" selection-start="1099" selection-end="1099" vertical-scroll-proportion="-11.875" vertical-offset="0" max-vertical-offset="840">
+        <state line="30" column="49" selection-start="1711" selection-end="1711" vertical-scroll-proportion="-7.5" vertical-offset="270" max-vertical-offset="855">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="42" selection-start="393" selection-end="393" vertical-scroll-proportion="0.39473686" vertical-offset="0" max-vertical-offset="780">
+        <state line="10" column="22" selection-start="414" selection-end="414" vertical-scroll-proportion="0.295858" vertical-offset="0" max-vertical-offset="507">
           <folding />
         </state>
       </provider>
