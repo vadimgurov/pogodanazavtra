@@ -19,11 +19,20 @@ $(function() {
 
 function getLocation(callback) {
   if (navigator.geolocation) {
+    var callbackCalled = false;
     navigator.geolocation.getCurrentPosition(function(position) {
+      callbackCalled = true;
       callback(position.coords.latitude + ',' + position.coords.longitude);
-    }, function() {
+    }, function(e) {
+      callbackCalled = true;
       callback('Saint Petersburg, Russia');
     });
+
+    setTimeout(function() {
+      if (!callbackCalled) {
+        callback('Saint Petersburg, Russia');
+      }
+    }, 5000);
   }
 }
 
