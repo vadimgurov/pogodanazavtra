@@ -2,6 +2,9 @@ $(function() {
   // set date & location
   getLocation(function(position){
     getWeather(position, function(weather) {
+      $("#loading").hide();
+      $(".main").show();
+
       $('#location').text(weather.city);
       $('#morning').html(weather.low + '&deg;');
       $('#day').html(weather.high + '&deg;');
