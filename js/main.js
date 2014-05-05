@@ -1,18 +1,28 @@
 $(function() {
-  // set date
-  var t = new Date(new Date().getTime() + 24 * 60 * 60 * 1000);
-  $('#date').text(t.toLocaleDateString());
+  // set date & location
+  getLocation(function(position){
+    getWeather(position, function(weather) {
+      $('#location').text(weather.city);
+      $('#morning').html(weather.low + '&deg;');
+      $('#day').html(weather.high + '&deg;');
+      //$('#night').html(weather.low + '&deg;');
 
-  // set location
+      // set date
+      var t = new Date(new Date().getTime() + 24 * 60 * 60 * 1000);
+      $('#date').text(t.toLocaleDateString());
+    });
+  });
+});
+
+function getLocation(callback) {
   if (navigator.geolocation) {
     navigator.geolocation.getCurrentPosition(function(position) {
-      getWeather(position.coords.latitude + ',' + position.coords.longitude, function(weather) {
-        $('#location').text(weather.city);
-        $('#day').html(weather.temp + '&deg;')
-      });
+      callback(position.coords.latitude + ',' + position.coords.longitude);
+    }, function() {
+      callback('Saint Petersburg, Russia');
     });
   }
-});
+}
 
 function getWeather(location, callback) {
   $.simpleWeather({

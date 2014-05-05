@@ -8,16 +8,16 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <!--TODO: show tomorrow date and location-->
         <title>Погода на завтра</title>
-        <meta name="description" content="погода,завтра,weather,tomorrow">
+        <meta name="description" content="погода,завтра,weather,tomorrow,прогноз погоды на завтра,санкт-петербург,москва,спб,питер">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-
+        <link href="data:image/x-icon;base64,AAABAAEAEBAQAAAAAAAoAQAAFgAAACgAAAAQAAAAIAAAAAEABAAAAAAAgAAAAAAAAAAAAAAAEAAAAAAAAABZWVkAMzMzAP///wCIiIgAICAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIiIiIiIkQiIiIiIiIkIkIiJCIiIiIiQiJCIiIiIiQiIkQkIiIiMiIkEUIiIiMiIiQUFCQiMiIiJBQRQiMiIiIkQRQUQiIiIiQRQRRCQiIiJBQRQQQiIiIiQRQQQUJCIiJBQQQRBCIiIiQQQQRBQkIiQkQAQABEIiQiIkRERCIiL/5wAA/9sAAN/7AAC/9wAAl+8AAA/fAAAFvwAAA38AAAD/AAAAvwAAAH8AAIAvAACAHwAAwAsAAKAHAAB4HwAA" rel="icon" type="image/x-icon" />
         <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 
         <!--<link href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" rel="stylesheet">-->
         <link rel="stylesheet" href="css/main.css">
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
         <!--<script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>-->
-        <script src="//maps.googleapis.com/maps/api/js?sensor=false"></script>
+        <!--<script src="//maps.googleapis.com/maps/api/js?sensor=false"></script>-->
         <script src="//cdnjs.cloudflare.com/ajax/libs/jquery.simpleWeather/2.7.0/jquery.simpleWeather.min.js"></script>
         <script src="js/main.js"></script>
     </head>
@@ -36,6 +36,12 @@
         <div class="date">
             <div id="location"></div>
             <div id="date"></div>
+        </div>
+
+        <div class="footer">
+            <a class="feedback" target="_blank" href="http://pogodanazavtra.myjetbrains.com/youtrack/newIssue?project=PNZ&clearDraft=true&summary=%D0%90+%D0%B2%D0%BE%D1%82+%D0%B1%D1%8B+%D1%81%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D1%8C+...&c=">
+                Feedback
+            </a>
         </div>
 
         <script>
